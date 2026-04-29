@@ -1,4 +1,0 @@
-/home/harnoor-singh/geant4/geant4-v11.4.1-tutorials/build/CMakeFiles/sim.dir
-/home/harnoor-singh/geant4/geant4-v11.4.1-tutorials/build/CMakeFiles/Tutorial.dir
-/home/harnoor-singh/geant4/geant4-v11.4.1-tutorials/build/CMakeFiles/edit_cache.dir
-/home/harnoor-singh/geant4/geant4-v11.4.1-tutorials/build/CMakeFiles/rebuild_cache.dir
